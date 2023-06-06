@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IntroduceToJava/BMI_Calculate/BMI_Calculate.iml" filepath="$PROJECT_DIR$/IntroduceToJava/BMI_Calculate/BMI_Calculate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Loop/CheckPrimeNumber/CheckPrimeNumber.iml" filepath="$PROJECT_DIR$/Java_Loop/CheckPrimeNumber/CheckPrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroduceToJava/DayOfMonth/DayOfMonth.iml" filepath="$PROJECT_DIR$/IntroduceToJava/DayOfMonth/DayOfMonth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroduceToJava/Hello/Hello.iml" filepath="$PROJECT_DIR$/IntroduceToJava/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Loop/Hien_Thi_Cac_Loai_Hinh/Hien_Thi_Cac_Loai_Hinh.iml" filepath="$PROJECT_DIR$/Java_Loop/Hien_Thi_Cac_Loai_Hinh/Hien_Thi_Cac_Loai_Hinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Loop/InterestCalculator/InterestCalculator.iml" filepath="$PROJECT_DIR$/Java_Loop/InterestCalculator/InterestCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroduceToJava/Leap_year_calculator/Leap_year_calculator.iml" filepath="$PROJECT_DIR$/IntroduceToJava/Leap_year_calculator/Leap_year_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroduceToJava/Linear_Equation_resolver/Linear_Equation_resolver.iml" filepath="$PROJECT_DIR$/IntroduceToJava/Linear_Equation_resolver/Linear_Equation_resolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Module2.iml" filepath="$PROJECT_DIR$/.idea/Module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroduceToJava/NumberToString/NumberToString.iml" filepath="$PROJECT_DIR$/IntroduceToJava/NumberToString/NumberToString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroduceToJava/Operator_expression/Operator_expression.iml" filepath="$PROJECT_DIR$/IntroduceToJava/Operator_expression/Operator_expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Loop/PrimeNumberLesser100/PrimeNumberLesser100.iml" filepath="$PROJECT_DIR$/Java_Loop/PrimeNumberLesser100/PrimeNumberLesser100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroduceToJava/TransferMoney/TransferMoney.iml" filepath="$PROJECT_DIR$/IntroduceToJava/TransferMoney/TransferMoney.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Loop/Twenty_FirstPrime/Twenty_FirstPrime.iml" filepath="$PROJECT_DIR$/Java_Loop/Twenty_FirstPrime/Twenty_FirstPrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Loop/UCLN/UCLN.iml" filepath="$PROJECT_DIR$/Java_Loop/UCLN/UCLN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroduceToJava/Variable-DataType/Variable-DataType.iml" filepath="$PROJECT_DIR$/IntroduceToJava/Variable-DataType/Variable-DataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Loop/drawing-triangle-square-rectange/drawing-triangle-square-rectange.iml" filepath="$PROJECT_DIR$/Java_Loop/drawing-triangle-square-rectange/drawing-triangle-square-rectange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroduceToJava/systemTime/systemTime.iml" filepath="$PROJECT_DIR$/IntroduceToJava/systemTime/systemTime.iml" />
+    </modules>
+  </component>
+</project>

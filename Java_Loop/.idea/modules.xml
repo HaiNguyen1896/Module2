@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CheckPrimeNumber/CheckPrimeNumber.iml" filepath="$PROJECT_DIR$/CheckPrimeNumber/CheckPrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterestCalculator/InterestCalculator.iml" filepath="$PROJECT_DIR$/InterestCalculator/InterestCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Loop.iml" filepath="$PROJECT_DIR$/.idea/Java_Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UCLN/UCLN.iml" filepath="$PROJECT_DIR$/UCLN/UCLN.iml" />
+    </modules>
+  </component>
+</project>
