@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Circle_Cylinder/Circle_Cylinder.iml" filepath="$PROJECT_DIR$/Circle_Cylinder/Circle_Cylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeometricObject/GeometricObject.iml" filepath="$PROJECT_DIR$/GeometricObject/GeometricObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_inheritance.iml" filepath="$PROJECT_DIR$/.idea/Java_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Point2D_Point3d/Point2D_Point3d.iml" filepath="$PROJECT_DIR$/Point2D_Point3d/Point2D_Point3d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PointAndMoveablePoint/PointAndMoveablePoint.iml" filepath="$PROJECT_DIR$/PointAndMoveablePoint/PointAndMoveablePoint.iml" />
+    </modules>
+  </component>
+</project>
