@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA list.iml" filepath="$PROJECT_DIR$/.idea/DSA list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyArrayList_Exercises/MyArrayList_Exercises.iml" filepath="$PROJECT_DIR$/MyArrayList_Exercises/MyArrayList_Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyLinkelistExercises/MyLinkelistExercises.iml" filepath="$PROJECT_DIR$/MyLinkelistExercises/MyLinkelistExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleLinkelist/SimpleLinkelist.iml" filepath="$PROJECT_DIR$/SimpleLinkelist/SimpleLinkelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleList/SimpleList.iml" filepath="$PROJECT_DIR$/SimpleList/SimpleList.iml" />
+    </modules>
+  </component>
+</project>
