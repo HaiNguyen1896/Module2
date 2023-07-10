@@ -11,6 +11,7 @@ public class MainTest {
         bst.insert(31);
         bst.insert(42);
         bst.preOrder();
+        System.out.println(bst.find(35));
 
 
     }

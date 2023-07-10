@@ -3,11 +3,9 @@ package Codegym;
 public class BST<E extends Comparable<E>> implements Tree<E> {
     protected TreeNode<E> root;
     protected int size = 0;
-
-    public BST() {
+    public BST(){
 
     }
-
     public BST(E[] objects) {
         for (int i = 0; i < objects.length; i++)
             insert(objects[i]);
@@ -47,33 +45,16 @@ public class BST<E extends Comparable<E>> implements Tree<E> {
     }
 
     @Override
-    public void preOrder() {
-        preOrder(root);
+    public void postOrder() {
+        postOrder(root);
     }
-
-    public void preOrder(TreeNode<E> root) {
-        if (root == null) {
+    public void postOrder(TreeNode<E>root){
+        if(root==null){
             return;
         }
+        postOrder(root.left);
+        postOrder(root.right);
         System.out.println(root.element);
-        preOrder(root.left);
-        preOrder(root.right);
-    }
 
-    @Override
-    public boolean find(E e1) {
-        TreeNode<E> current = root;
-        while (current != null || e1.compareTo(current.element) == 0) {
-            if (e1.compareTo(current.element) < 0) {
-                current = current.left;
-                if (current == null) break;
-            } else if (e1.compareTo(current.element) > 0) {
-                current = current.right;
-                if (current == null) break;
-            } else {
-                return true;
-            }
-        }
-        return false;
     }
 }

@@ -1,25 +1,43 @@
 package Codegym;
 
-public class BST<E extends Comparable<E>> implements Tree<E> {
+public class BST<E extends Comparable<E>> extends AbstractTree<E> {
     protected TreeNode<E> root;
     protected int size = 0;
 
     public BST() {
-
     }
 
     public BST(E[] objects) {
-        for (int i = 0; i < objects.length; i++)
+        for (int i = 0; i < objects.length; i++) {
             insert(objects[i]);
+        }
+    }
+
+    protected TreeNode<E> createNewNode(E e) {
+        return new TreeNode<>(e);
+    }
+
+    @Override
+    public void inorder() {
+        inorder(root);
+    }
+
+    protected void inorder(TreeNode<E> root) {
+        if (root == null) {
+            return;
+        }
+        inorder(root.left);
+        System.out.println(root.element + " ");
+        inorder(root.right);
     }
 
     @Override
     public boolean insert(E e) {
         if (root == null) {
-            root = createTreeNode(e);
+            root = createNewNode(e);
         } else {
-            TreeNode<E> current = root;
             TreeNode<E> parent = null;
+            TreeNode<E> current = root;
             while (current != null) {
                 if (e.compareTo(current.element) < 0) {
                     parent = current;
@@ -30,35 +48,20 @@ public class BST<E extends Comparable<E>> implements Tree<E> {
                 } else {
                     return false;
                 }
-
             }
             if (e.compareTo(parent.element) < 0) {
-                parent.left = createTreeNode(e);
+                parent.left = createNewNode(e);
             } else {
-                parent.right = createTreeNode(e);
+                parent.right = createNewNode(e);
             }
+
         }
-        this.size++;
+        size++;
         return true;
     }
 
-    public TreeNode<E> createTreeNode(E e) {
-        return new TreeNode<>(e);
-    }
-
     @Override
-    public void preOrder() {
-        preOrder(root);
-    }
-
-    public void preOrder(TreeNode<E> root) {
-        if (root == null) {
-            return;
-        }
-        System.out.println(root.element);
-        preOrder(root.left);
-        preOrder(root.right);
-
-
+    public int getSize() {
+        return size;
     }
 }
