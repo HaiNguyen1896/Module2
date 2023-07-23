@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort_illustration/BubbleSort_illustration.iml" filepath="$PROJECT_DIR$/BubbleSort_illustration/BubbleSort_illustration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Setup_BubbleSort/Setup_BubbleSort.iml" filepath="$PROJECT_DIR$/Setup_BubbleSort/Setup_BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Setup_SelectionSort/Setup_SelectionSort.iml" filepath="$PROJECT_DIR$/Setup_SelectionSort/Setup_SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sort_Algorithm.iml" filepath="$PROJECT_DIR$/.idea/Sort_Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/illusion_InsertionSort/illusion_InsertionSort.iml" filepath="$PROJECT_DIR$/illusion_InsertionSort/illusion_InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/illution_SelectionSort/illution_SelectionSort.iml" filepath="$PROJECT_DIR$/illution_SelectionSort/illution_SelectionSort.iml" />
+    </modules>
+  </component>
+</project>

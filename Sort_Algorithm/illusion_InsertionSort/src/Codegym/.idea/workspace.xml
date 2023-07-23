@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00fb6d22-6ac0-4b4e-ab82-9eddd7a6ce6a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/.idea/BaiTapTrenLop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/Animal_Management/Animal_Management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/Animal_Management/src/Animal_Management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/BTQL_CanBo/BTQL_CanBo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/Exercises_Animals/Exercises_Animals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/Exercises_Animals/src/Animal/Animal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/Exercises_Animals/src/Exercises_KeThua.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/Exercises_KeThua/Exercises_Animals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/Exercises_KeThua/src/Animal/Animal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/Exercises_KeThua/src/Exercises_KeThua.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/QLHS_THIDAIHOC/QLHS_THIDAIHOC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/QUANLYHOCSINH/QUANLYHOCSINH.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/QUANLY_HODAN/QUANLY_HODAN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/QuanLy_Sach/QuanLy_Sach.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/ThuatToan/.idea/ThuatToan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/ThuatToan/BCNN/BCNN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/ThuatToan/FindS/FindS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/ThuatToan/Kiem_Tra_dau_ngoac/Kiem_Tra_dau_ngoac.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/ThuatToan/SumOfSquaresX_Y/SumOfSquaresX_Y.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BaiTapTrenLop/ThuatToan/UCLN/UCLN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Clean Code/FizzBuzz/FizzBuzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Collection_Framework/FindInBinarySearchTree/src/Codegym/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Collection_Framework/FindInBinarySearchTree/src/Codegym/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Collection_Framework/FindInBinarySearchTree/src/Codegym/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Collection_Framework/FindInBinarySearchTree/src/Codegym/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Collection_Framework/PreOrder_BinarySearchTree/src/Codegym/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Collection_Framework/PreOrder_BinarySearchTree/src/Codegym/PreOrder_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Collection_Framework/PreOrder_BinarySearchTree/src/Codegym/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Collection_Framework/PreOrder_BinarySearchTree/src/Codegym/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Collection_Framework/Using_HashMap_LinkedHashMap_TreeMap_Student/Using_HashMap_LinkedHashMap_TreeMap_Student.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abstract &amp; Interface/Animal_interfaceEdible/src/Animal_interfaceEdible/edible/Edible.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abstract &amp; Interface/Animal_interfaceEdible/src/Animal_interfaceEdible/edible/Edible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DSA_Stack_Queue/Kiem_Tra_Dau_Ngoac/src/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_Loop/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java_Loop/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2RYNCnxCYLvGp6PvaPzlHc4UlNm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00fb6d22-6ac0-4b4e-ab82-9eddd7a6ce6a" name="Changes" comment="" />
+      <created>1687422931427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687422931427</updated>
+      <workItem from="1687422932913" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
